@@ -34,4 +34,7 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" title="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img img align="left" alt="Unreal Engine" title="Unreal Engine" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" />
 <img img align="left" alt="Firebase" title="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+
 ---             
+### Stats
+![Christoffer's Stats](https://github-readme-stats.vercel.app/api?username=flippi321&show_icons=true&theme=radical)
