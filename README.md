@@ -9,8 +9,12 @@
 
 ---
 
+<!--
+
 ### My profiles Stats
 ![Christoffer's Stats](https://github-readme-stats.vercel.app/api?username=flippi321&show_icons=true&theme=radical)
+
+-->
 
 ---
 ### Languages and Technologies
@@ -32,8 +36,4 @@
 <img img align="left" alt="Firebase" title="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <br />
 
-<!--
 
----
-
->
