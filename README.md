@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ---
 
-#### Tekst under strek
+### Languages and Technologies
 
--
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
