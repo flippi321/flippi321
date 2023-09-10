@@ -1,11 +1,11 @@
-### Welcome to my GitHub! 👨‍💻
-👋 Hey there! I'm Christoffer Brevik.
+## Welcome to my GitHub! 👨‍💻
+#### 👋 Hey there! I'm Christoffer Brevik.
 
-🎓 Currently, I'm pursuing my Bachelor's in Software Engineering at the esteemed NTNU University in Trondheim.
+#### 🎓 Currently, I'm pursuing my Bachelor's in Software Engineering at NTNU University, Trondheim.
 
-🖥️ On this GitHub repository, you'll find a mix of my academic journey and my passion. From school assignments to unique projects I dive into during my free time, every piece of code here tells a story of my growth as a developer and my enthusiasm for innovation.
+#### 🖥️ On this GitHub repository, you'll find a mix of my academic journey and my passion. From school assignments to unique projects I dive into during my free time, every piece of code here tells a story of my growth as a developer and my enthusiasm for innovation.
 
-💡 Whether you're here to explore, collaborate, or just to say hi, I'm thrilled to have you! Let's code, learn, and grow together.
+#### 💡 Whether you're here to explore, collaborate, or just to say hi, I'm thrilled to have you! Let's code, learn, and grow together.
 
 
 ---
@@ -28,9 +28,9 @@
 <img img align="left" alt="Firebase" title="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <br />
 
----
-### Test
 <!--
-### Stats
+
+---
+### My profiles Stats
 ![Christoffer's Stats](https://github-readme-stats.vercel.app/api?username=flippi321&show_icons=true&theme=radical)
 >
