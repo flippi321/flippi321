@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ---
 
-<!--
-Tekst under strek
--->
+#### Tekst under strek
 
---
+-
