@@ -3,7 +3,7 @@
 
 🎓 Currently, I'm pursuing my Bachelor's in Software Engineering at NTNU University, Trondheim.
 
-🖥️ On this GitHub repository, you'll find a mix of my academic journey and my passion. From school assignments to unique projects I dive into during my free time, every piece of code here tells a story of my growth as a developer and my enthusiasm for innovation.
+🖥️ My GitHub repositories are a mix of my academic journey and different projects i persue in my free time. From school assignments to unique passion-projects I've completed, every piece of code here tells a story of my growth as a developer and my enthusiasm for innovation.
 
 💡 Whether you're here to explore, collaborate, or just to say hi, I'm thrilled to have you! Let's code, learn, and grow together.
 
