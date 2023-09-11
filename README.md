@@ -9,12 +9,11 @@
 
 ---
 
-<!--
+
 
 ### My profiles Stats
 ![Christoffer's Stats](https://github-readme-stats.vercel.app/api?username=flippi321&show_icons=true&theme=radical)
 
----
 
 -->
 
