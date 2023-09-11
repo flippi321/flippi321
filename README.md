@@ -8,7 +8,7 @@
 💡 Whether you're here to explore, collaborate, or just to say hi, I'm thrilled to have you! Let's code, learn, and grow together.
 
 ---
-S
+
 <!--
 
 ### My profiles Stats
