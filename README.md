@@ -5,13 +5,13 @@
 
 🖥️ My GitHub repositories are a mix of my academic journey and different projects I persue in my free time. From coursework to personal passion projects, every piece of code here tells a story of my growth as a developer and my enthusiasm for innovation.
 
-💡 Thanks for stopping by. If you've feedback or are interested in collaborating, I'd love to hear from you.
+<!--
+Need to reword this...
 
+💡 Thanks for stopping by. If you've feedback or are interested in collaborating, I'd love to hear from you.
+-->
 ---
 
-<!--
-
--->
 
 ### My profiles Stats
 ![Christoffer's Stats](https://github-readme-stats.vercel.app/api?username=flippi321&show_icons=true&theme=radical)
