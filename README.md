@@ -17,8 +17,9 @@ Need to reword this...
 
 ---
 
-### 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flippi321&layout=compact&theme=radical)](https://github.com/flippi321/github-readme-stats)
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flippi321)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=flippi321)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
