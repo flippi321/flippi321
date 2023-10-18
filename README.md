@@ -18,12 +18,15 @@ Need to reword this...
 ---
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flippi321&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flippi321&show_icons=true&theme=radical&hide=Jupyter%20Notebook)
 
 ---
 
+### Most Used Languages by Repo
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flippi321&theme=radical&hide=Jupyter%20Notebook" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flippi321&label=Profile%20views&color=0e75b6&style=flat" alt="flippi321" /> </p>
 
-
+---
 ### Languages and Technologies
 <img align="left" alt="Java" title="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" title="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
