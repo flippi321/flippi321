@@ -18,7 +18,7 @@ Need to reword this...
 ---
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flippi321&show_icons=true&theme=radical&hide=Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flippi321&show_icons=true&theme=radical&hide=Jupyter%20Notebook,Cmake)
 
 <!--
 ---
