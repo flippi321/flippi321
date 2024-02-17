@@ -1,7 +1,7 @@
 ## Welcome to my GitHub! 👨‍💻
 👋 Hey there! I'm Christoffer Brevik.
 
-🎓 Currently, I'm pursuing my Bachelor's in Software Engineering at NTNU University, Trondheim.
+🎓 Currently, I'm pursuing my last year of a Bachelor in Computer Science at NTNU University, Trondheim.
 
 🖥️ My GitHub repositories are a mix of my academic journey and different projects I persue in my free time. From coursework to personal passion projects, every piece of code here tells a story of my growth as a developer and my enthusiasm for innovation.
 
