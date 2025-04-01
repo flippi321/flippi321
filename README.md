@@ -1,9 +1,11 @@
-## Welcome to my GitHub! 👨‍💻
-👋 Hey there! I'm Christoffer Brevik.
+## 👋 Welcome to my GitHub!
+Hey there! I'm Christoffer Brevik, a curious developer passionate about AI, software development, and making things work at scale.
 
-🎓 I just finished my Bachelor's in Computer Science and am now in my first year of my Master's at NTNU University in Trondheim.
+🎓 I recently finished my **Bachelor's in Computer Science** and am now diving into my **AI - Informatics Master's** at NTNU in Trondheim.
 
 🖥️ My GitHub is a blend of school assignments and various personal projects I work on in my free time. Whether it's coursework or a passion project, each project reflects my growth as a developer and my love for innovation.
+
+🚀 Always up for a challenge and open to collaboration! If something here interests you, feel free to reach out.
 
 <!--
 Need to reword this...
